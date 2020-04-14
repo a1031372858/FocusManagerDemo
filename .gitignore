@@ -1,0 +1,7 @@
+#WPF通用忽略文件
+.vs/
+#里面都是debug文件和release文件。
+[Bb]in/
+[Oo]bj/
+#引入的资源包，packages.config文件记录了资源包的信息。没必要将资源包文件全上传到远程仓库。浪费。
+packages/
